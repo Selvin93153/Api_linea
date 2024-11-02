@@ -1,0 +1,14 @@
+.cardContainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap:50px ;
+}
+
+.card-link {
+    text-decoration: none;
+    color: inherit;
+  }
+  .container {
+    padding: 20px;
+  }
+  
